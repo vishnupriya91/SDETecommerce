@@ -1,0 +1,431 @@
+07/13/2022 02:02:36 PM - root - INFO: ********** Test_001_Login **********
+07/13/2022 02:02:36 PM - root - INFO: ********** Verifying Home Page Title **********
+07/13/2022 02:03:02 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/13/2022 02:03:05 PM - root - INFO: ********** Verifying Login Test **********
+07/13/2022 02:03:42 PM - root - INFO: ********** Login Test case Passed **********
+07/14/2022 07:06:05 PM - root - INFO: ********** Test_001_Login **********
+07/14/2022 07:06:05 PM - root - INFO: ********** Verifying Home Page Title **********
+07/14/2022 07:06:14 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/14/2022 07:06:15 PM - root - INFO: ********** Verifying Login Test **********
+07/14/2022 07:06:28 PM - root - ERROR: ********** Login Test case Failed **********
+07/14/2022 07:08:03 PM - root - INFO: ********** Test_001_Login **********
+07/14/2022 07:08:03 PM - root - INFO: ********** Verifying Home Page Title **********
+07/14/2022 07:08:10 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/14/2022 07:08:12 PM - root - INFO: ********** Verifying Login Test **********
+07/14/2022 07:08:28 PM - root - INFO: ********** Login Test case Passed **********
+07/14/2022 07:28:24 PM - root - INFO: ********** Test_001_Login **********
+07/14/2022 07:28:24 PM - root - INFO: ********** Verifying Home Page Title **********
+07/14/2022 07:28:34 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/14/2022 07:28:36 PM - root - INFO: ********** Verifying Login Test **********
+07/14/2022 07:28:49 PM - root - INFO: ********** Login Test case Passed **********
+07/14/2022 07:32:36 PM - root - INFO: ********
+** Test_001_Login **********
+07/14/2022 07:32:36 PM - root - INFO: ********** Verifying Home Page Title **********
+07/14/2022 07:32:45 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/14/2022 07:32:46 PM - root - INFO: ********** Verifying Login Test **********
+07/14/2022 07:32:59 PM - root - INFO: ********** Login Test case Passed **********
+07/14/2022 08:16:17 PM - root - INFO: ********** Test_001_Login **********
+07/14/2022 08:16:17 PM - root - INFO: ********** Verifying Home Page Title **********
+07/14/2022 08:16:27 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/14/2022 08:16:29 PM - root - INFO: ********** Verifying Login Test **********
+07/14/2022 08:16:43 PM - root - INFO: ********** Login Test case Passed **********
+07/14/2022 08:23:13 PM - root - INFO: ********** Test_001_Login **********
+07/14/2022 08:23:13 PM - root - INFO: ********** Verifying Login Test **********
+07/14/2022 08:23:13 PM - root - INFO: ********** Verifying Home Page Title **********
+07/14/2022 08:23:23 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/14/2022 08:23:27 PM - root - INFO: ********** Login Test case Passed **********
+07/16/2022 11:23:40 AM - root - INFO: ********** Test_001_Login **********
+07/16/2022 11:23:40 AM - root - INFO: ********** Verifying Home Page Title **********
+07/16/2022 11:23:40 AM - root - INFO: ********** Verifying Login Test **********
+07/16/2022 11:23:51 AM - root - INFO: ********** Home Page Title test is Passed **********
+07/16/2022 11:24:12 AM - root - INFO: ********** Login Test case Passed **********
+07/17/2022 02:56:17 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 02:56:17 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 02:58:58 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 02:58:58 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:02:11 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 03:02:11 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:04:52 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 03:04:52 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:07:42 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 03:07:42 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:12:03 PM - root - INFO: ********** Verifying Login Test **********
+07/17/2022 03:12:03 PM - root - INFO: ********** Test_001_Login **********
+07/17/2022 03:12:03 PM - root - INFO: ********** Verifying Home Page Title **********
+07/17/2022 03:12:13 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/17/2022 03:12:20 PM - root - INFO: ********** Login Test case Passed **********
+07/17/2022 03:13:43 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 03:13:43 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:15:42 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 03:15:42 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:17:07 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 03:17:07 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:17:26 PM - root - INFO: ***** Passed *****
+07/17/2022 03:18:47 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 03:18:47 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 03:19:15 PM - root - INFO: ***** Passed *****
+07/17/2022 03:19:25 PM - root - INFO: ***** Passed *****
+07/17/2022 04:00:28 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 04:00:28 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 04:00:43 PM - root - INFO: ***** Passed *****
+07/17/2022 04:00:52 PM - root - INFO: ***** Passed *****
+07/17/2022 04:09:22 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 04:09:22 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 04:09:40 PM - root - INFO: ***** Passed *****
+07/17/2022 04:09:49 PM - root - INFO: ***** Passed *****
+07/17/2022 04:09:56 PM - root - INFO: ***** Passed *****
+07/17/2022 04:10:03 PM - root - INFO: ***** Passed *****
+07/17/2022 04:10:03 PM - root - INFO: **** Login DDT test Failed *****
+07/17/2022 04:12:59 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 04:12:59 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 04:13:13 PM - root - INFO: ***** Passed *****
+07/17/2022 04:14:30 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 04:14:30 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 04:14:45 PM - root - INFO: ***** Passed *****
+07/17/2022 04:14:56 PM - root - INFO: ***** Passed *****
+07/17/2022 04:15:07 PM - root - INFO: ***** Passed *****
+07/17/2022 04:15:23 PM - root - INFO: ***** Passed *****
+07/17/2022 04:15:25 PM - root - INFO: **** Login DDT test Passed *****
+07/17/2022 04:15:25 PM - root - INFO: ***** End of Login DDT Test *****
+07/17/2022 04:15:25 PM - root - INFO: ***** Completed TC_LoginDDT_002 *****
+07/17/2022 05:42:53 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 05:42:53 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 05:43:07 PM - root - INFO: ***** Passed *****
+07/17/2022 05:43:19 PM - root - INFO: ***** Passed *****
+07/17/2022 05:43:30 PM - root - INFO: ***** Passed *****
+07/17/2022 05:43:45 PM - root - INFO: ***** Passed *****
+07/17/2022 05:43:48 PM - root - INFO: **** Login DDT test Passed *****
+07/17/2022 05:43:50 PM - root - INFO: ***** End of Login DDT Test *****
+07/17/2022 05:43:50 PM - root - INFO: ***** Completed TC_LoginDDT_002 *****
+07/17/2022 05:51:19 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 05:51:19 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 05:51:32 PM - root - INFO: ***** Passed *****
+07/17/2022 05:51:41 PM - root - INFO: ***** Passed *****
+07/17/2022 05:51:48 PM - root - INFO: ***** Passed *****
+07/17/2022 05:51:55 PM - root - INFO: ***** Passed *****
+07/17/2022 05:51:55 PM - root - INFO: **** Login DDT test Failed *****
+07/17/2022 05:57:33 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/17/2022 05:57:33 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/17/2022 05:57:47 PM - root - INFO: ***** Passed *****
+07/17/2022 05:57:56 PM - root - INFO: ***** Passed *****
+07/17/2022 05:58:03 PM - root - INFO: ***** Passed *****
+07/17/2022 05:58:10 PM - root - INFO: ***** Passed *****
+07/17/2022 05:58:10 PM - root - INFO: **** Login DDT test Passed *****
+07/17/2022 05:58:10 PM - root - INFO: ***** End of Login DDT Test *****
+07/17/2022 05:58:10 PM - root - INFO: ***** Completed TC_LoginDDT_002 *****
+07/20/2022 01:09:55 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:10:06 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:10:06 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:10:12 PM - root - INFO: ********** Providing Customer Info **********
+07/20/2022 01:15:35 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:15:45 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:15:45 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:15:54 PM - root - INFO: ********** Providing Customer Info **********
+07/20/2022 01:20:14 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:20:23 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:20:23 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:20:28 PM - root - INFO: ********** Providing Customer Info **********
+07/20/2022 01:26:39 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:26:48 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:26:48 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:26:54 PM - root - INFO: ********** Providing Customer Info **********
+07/20/2022 01:28:59 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:29:08 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:29:08 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:29:15 PM - root - INFO: ********** Providing Customer Info **********
+07/20/2022 01:32:24 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:32:47 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:32:57 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:32:57 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:33:05 PM - root - INFO: ********** Providing Customer Info **********
+07/20/2022 01:34:56 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:35:07 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:35:07 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:35:13 PM - root - INFO: ********** Providing Customer Info **********
+07/20/2022 01:38:50 PM - root - INFO: ********** Test_003_Add Customer **********
+07/20/2022 01:39:01 PM - root - INFO: ********** Login Successful **********
+07/20/2022 01:39:01 PM - root - INFO: ********** Starting Add Customer Test **********
+07/20/2022 01:39:08 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 12:59:23 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 12:59:34 PM - root - INFO: ********** Login Successful **********
+07/21/2022 12:59:34 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 12:59:39 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:00:11 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:00:24 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:00:24 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:00:31 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:00:51 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:01:05 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:01:05 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:01:14 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:20:03 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:20:14 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:20:14 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:20:27 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:23:28 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:23:38 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:23:38 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:23:44 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:23:48 PM - root - INFO: ********** Test_001_Login **********
+07/21/2022 01:23:48 PM - root - INFO: ********** Verifying Home Page Title **********
+07/21/2022 01:23:57 PM - root - INFO: ********** Home Page Title test is Passed **********
+07/21/2022 01:23:59 PM - root - INFO: ********** Verifying Login Test **********
+07/21/2022 01:24:14 PM - root - INFO: ********** Login Test case Passed **********
+07/21/2022 01:24:16 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/21/2022 01:24:16 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/21/2022 01:24:37 PM - root - INFO: ***** Passed *****
+07/21/2022 01:24:46 PM - root - INFO: ***** Passed *****
+07/21/2022 01:24:54 PM - root - INFO: ***** Passed *****
+07/21/2022 01:25:00 PM - root - INFO: ***** Passed *****
+07/21/2022 01:25:00 PM - root - INFO: **** Login DDT test Passed *****
+07/21/2022 01:25:01 PM - root - INFO: ***** End of Login DDT Test *****
+07/21/2022 01:25:01 PM - root - INFO: ***** Completed TC_LoginDDT_002 *****
+07/21/2022 01:26:32 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:26:41 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:26:41 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:26:52 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:27:55 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:28:10 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:28:10 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:28:21 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:29:13 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:29:24 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:29:24 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:29:35 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:29:46 PM - root - INFO: ********** Saving Customer Info **********
+07/21/2022 01:29:46 PM - root - INFO: ********** Add Customer Validation Started **********
+07/21/2022 01:29:46 PM - root - INFO: ********** Add Customer Test Passed **********
+07/21/2022 01:29:47 PM - root - INFO: ********** Ending Add Customer Test **********
+07/21/2022 01:30:36 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:30:46 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:30:46 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:30:56 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:31:05 PM - root - INFO: ********** Saving Customer Info **********
+07/21/2022 01:31:05 PM - root - INFO: ********** Add Customer Validation Started **********
+07/21/2022 01:31:06 PM - root - INFO: ********** Add Customer Test Passed **********
+07/21/2022 01:31:06 PM - root - INFO: ********** Ending Add Customer Test **********
+07/21/2022 01:36:04 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:36:14 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:36:14 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:36:24 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:44:54 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:45:04 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:45:04 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:45:09 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:50:51 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:51:01 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:51:01 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:51:07 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:53:27 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 01:53:37 PM - root - INFO: ********** Login Successful **********
+07/21/2022 01:53:37 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 01:53:48 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 01:54:01 PM - root - INFO: ********** Saving Customer Info **********
+07/21/2022 01:54:01 PM - root - INFO: ********** Add Customer Validation Started **********
+07/21/2022 01:54:02 PM - root - INFO: ********** Add Customer Test Passed **********
+07/21/2022 01:54:02 PM - root - INFO: ********** Ending Add Customer Test **********
+07/21/2022 02:01:15 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 02:01:26 PM - root - INFO: ********** Login Successful **********
+07/21/2022 02:01:26 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 02:01:35 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 02:01:50 PM - root - INFO: ********** Saving Customer Info **********
+07/21/2022 02:01:50 PM - root - INFO: ********** Add Customer Validation Started **********
+07/21/2022 02:01:51 PM - root - INFO: ********** Add Customer Test Passed **********
+07/21/2022 02:01:51 PM - root - INFO: ********** Ending Add Customer Test **********
+07/21/2022 02:07:36 PM - root - INFO: ********** Test_003_Add Customer **********
+07/21/2022 02:07:47 PM - root - INFO: ********** Login Successful **********
+07/21/2022 02:07:47 PM - root - INFO: ********** Starting Add Customer Test **********
+07/21/2022 02:07:59 PM - root - INFO: ********** Providing Customer Info **********
+07/21/2022 02:08:15 PM - root - INFO: ********** Saving Customer Info **********
+07/21/2022 02:08:15 PM - root - INFO: ********** Add Customer Validation Started **********
+07/21/2022 02:08:16 PM - root - INFO: ********** Add Customer Test Passed **********
+07/21/2022 02:08:16 PM - root - INFO: ********** Ending Add Customer Test **********
+07/21/2022 06:04:36 PM - root - INFO: ********** Test_003_Search Customer By Email **********
+07/21/2022 06:04:47 PM - root - INFO: ********** Login Successful **********
+07/21/2022 06:04:47 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/21/2022 06:04:51 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/21/2022 06:09:20 PM - root - INFO: ********** Test_003_Search Customer By Email **********
+07/21/2022 06:09:29 PM - root - INFO: ********** Login Successful **********
+07/21/2022 06:09:29 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/21/2022 06:09:33 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/21/2022 06:11:00 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/21/2022 06:11:11 PM - root - INFO: ********** Login Successful **********
+07/21/2022 06:11:11 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/21/2022 06:11:17 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:07:51 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:08:00 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:08:00 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:08:06 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:11:51 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:12:04 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:12:04 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:12:09 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:16:53 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:17:05 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:17:05 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:17:09 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:24:21 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:24:32 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:24:32 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:24:37 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:26:39 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:26:49 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:26:49 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:28:20 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:28:29 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:28:29 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:28:33 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:30:06 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:30:16 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:30:16 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:30:20 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:32:42 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:32:53 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:32:53 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:32:59 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:33:34 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:33:44 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:33:44 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:33:48 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:38:11 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:38:22 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:38:22 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:38:27 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 02:43:32 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 02:43:45 PM - root - INFO: ********** Login Successful **********
+07/22/2022 02:43:45 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 02:43:52 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:15:04 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:15:18 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:15:18 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:15:23 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:20:23 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:20:34 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:20:34 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:20:38 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:20:43 PM - root - INFO: ********** TC_004_SearchCustomerByEmail Finished **********
+07/22/2022 03:21:59 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:22:07 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:22:07 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:22:11 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:22:16 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/22/2022 03:25:20 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:25:31 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:25:31 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:25:34 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:25:39 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/22/2022 03:26:55 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:27:08 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:27:08 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:27:15 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:27:21 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/22/2022 03:28:18 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:28:25 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:28:25 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:30:59 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:31:11 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:31:11 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:31:18 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:31:24 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/22/2022 03:33:33 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/22/2022 03:33:45 PM - root - INFO: ********** Login Successful **********
+07/22/2022 03:33:45 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/22/2022 03:33:49 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/22/2022 03:33:54 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/24/2022 06:57:44 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/24/2022 06:57:53 PM - root - INFO: ********** Login Successful **********
+07/24/2022 06:57:53 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/24/2022 06:57:56 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/24/2022 06:58:02 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/24/2022 06:58:02 PM - root - INFO: ********** TC_005 Searching Customer By Name **********
+07/24/2022 06:58:08 PM - root - INFO: ********** TC_005_SearchCustomer By Name Finished **********
+
+
+07/24/2022 06:58:59 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/24/2022 06:59:10 PM - root - INFO: ********** Login Successful **********
+07/24/2022 06:59:10 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/24/2022 06:59:15 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/24/2022 06:59:22 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/24/2022 06:59:22 PM - root - INFO: ********** TC_005 Searching Customer By Name **********
+07/24/2022 06:59:28 PM - root - INFO: ********** TC_005_SearchCustomer By Name Finished **********
+07/24/2022 07:00:00 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/24/2022 07:00:10 PM - root - INFO: ********** Login Successful **********
+07/24/2022 07:00:10 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/24/2022 07:00:13 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/24/2022 07:00:19 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/24/2022 07:00:19 PM - root - INFO: ********** TC_005 Searching Customer By Name **********
+07/24/2022 07:00:29 PM - root - INFO: ********** TC_005_SearchCustomer By Name Finished **********
+07/24/2022 07:00:43 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/24/2022 07:00:55 PM - root - INFO: ********** Login Successful **********
+07/24/2022 07:00:55 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/24/2022 07:00:58 PM - root - INFO: ********** Searching Customer By Email Id **********
+07/24/2022 07:01:04 PM - root - INFO: ********** TC_004_SearchCustomer By Email Finished **********
+07/24/2022 07:01:04 PM - root - INFO: ********** TC_005 Searching Customer By Name **********
+07/24/2022 07:01:15 PM - root - INFO: ********** TC_005_SearchCustomer By Name Finished **********
+07/24/2022 07:02:52 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/24/2022 07:03:04 PM - root - INFO: ********** Login Successful **********
+07/24/2022 07:03:04 PM - root - INFO: ********** Starting Search Customer By Email **********
+07/24/2022 07:03:10 PM - root - INFO: ********** TC_005 Searching Customer By Name **********
+07/24/2022 07:03:21 PM - root - INFO: ********** TC_005_SearchCustomer By Name Finished **********
+07/26/2022 12:19:55 PM - root - INFO: ********** Test_003_Add Customer **********
+07/26/2022 12:20:03 PM - root - INFO: ********** Login Successful **********
+07/26/2022 12:20:03 PM - root - INFO: ********** Starting Add Customer Test **********
+07/26/2022 12:20:13 PM - root - INFO: ********** Providing Customer Info **********
+07/26/2022 12:20:27 PM - root - INFO: ********** Saving Customer Info **********
+07/26/2022 12:20:27 PM - root - INFO: ********** Add Customer Validation Started **********
+07/26/2022 12:20:27 PM - root - INFO: ********** Add Customer Test Passed **********
+07/26/2022 12:20:28 PM - root - INFO: ********** Ending Add Customer Test **********
+07/26/2022 12:20:30 PM - root - INFO: ********** Verifying Login Test **********
+07/26/2022 12:20:42 PM - root - INFO: ********** Login Test case Passed **********
+07/26/2022 12:30:51 PM - root - INFO: ********** Test_003_Add Customer **********
+07/26/2022 12:31:04 PM - root - INFO: ********** Login Successful **********
+07/26/2022 12:31:04 PM - root - INFO: ********** Starting Add Customer Test **********
+07/26/2022 12:31:13 PM - root - INFO: ********** Providing Customer Info **********
+07/26/2022 12:31:29 PM - root - INFO: ********** Saving Customer Info **********
+07/26/2022 12:31:29 PM - root - INFO: ********** Add Customer Validation Started **********
+07/26/2022 12:31:30 PM - root - INFO: ********** Add Customer Test Passed **********
+07/26/2022 12:31:32 PM - root - INFO: ********** Ending Add Customer Test **********
+07/26/2022 12:31:36 PM - root - INFO: ********** Verifying Login Test **********
+07/26/2022 12:31:49 PM - root - INFO: ********** Login Test case Passed **********
+07/26/2022 12:34:07 PM - root - INFO: ********** Test_003_Add Customer **********
+07/26/2022 12:34:20 PM - root - INFO: ********** Login Successful **********
+07/26/2022 12:34:20 PM - root - INFO: ********** Starting Add Customer Test **********
+07/26/2022 12:34:28 PM - root - INFO: ********** Providing Customer Info **********
+07/26/2022 12:34:43 PM - root - INFO: ********** Saving Customer Info **********
+07/26/2022 12:34:43 PM - root - INFO: ********** Add Customer Validation Started **********
+07/26/2022 12:34:45 PM - root - INFO: ********** Add Customer Test Passed **********
+07/26/2022 12:34:45 PM - root - INFO: ********** Ending Add Customer Test **********
+07/26/2022 12:34:47 PM - root - INFO: ********** Verifying Login Test **********
+07/26/2022 12:50:31 PM - root - INFO: ********** Test_003_Add Customer **********
+07/26/2022 12:50:41 PM - root - INFO: ********** Login Successful **********
+07/26/2022 12:50:41 PM - root - INFO: ********** Starting Add Customer Test **********
+07/26/2022 12:50:45 PM - root - INFO: ********** Verifying Login Test **********
+07/26/2022 12:51:02 PM - root - INFO: ********** Login Test case Passed **********
+07/26/2022 12:52:45 PM - root - INFO: ********** Test_003_Add Customer **********
+07/26/2022 12:52:58 PM - root - INFO: ********** Login Successful **********
+07/26/2022 12:52:58 PM - root - INFO: ********** Starting Add Customer Test **********
+07/26/2022 12:53:02 PM - root - INFO: ********** Test_001_Login **********
+07/26/2022 12:53:02 PM - root - INFO: ********** Verifying Home Page Title **********
+07/26/2022 12:53:06 PM - root - INFO: ********** Verifying Login Test **********
+07/26/2022 12:53:10 PM - root - INFO: ********** Test_002_DDT_Login **********
+07/26/2022 12:53:10 PM - root - INFO: ********** Verifying Login DDT Test **********
+07/26/2022 12:53:14 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/26/2022 12:53:17 PM - root - INFO: ********** Test_004_Search Customer By Email **********
+07/26/2022 12:53:56 PM - root - INFO: ********** Test_003_Add Customer **********
+07/26/2022 12:54:06 PM - root - INFO: ********** Login Successful **********
+07/26/2022 12:54:06 PM - root - INFO: ********** Starting Add Customer Test **********
+07/26/2022 12:54:13 PM - root - INFO: ********** Providing Customer Info **********
+07/26/2022 12:54:27 PM - root - INFO: ********** Saving Customer Info **********
+07/26/2022 12:54:27 PM - root - INFO: ********** Add Customer Validation Started **********
+07/26/2022 12:54:29 PM - root - INFO: ********** Add Customer Test Passed **********
+07/26/2022 12:54:29 PM - root - INFO: ********** Ending Add Customer Test **********
+07/27/2022 08:28:47 AM - root - INFO: ********** Test_003_Add Customer **********
+07/27/2022 08:28:56 AM - root - INFO: ********** Login Successful **********
+07/27/2022 08:28:56 AM - root - INFO: ********** Starting Add Customer Test **********
+07/27/2022 08:29:01 AM - root - INFO: ********** Providing Customer Info **********
+07/27/2022 08:29:16 AM - root - INFO: ********** Saving Customer Info **********
+07/27/2022 08:29:16 AM - root - INFO: ********** Add Customer Validation Started **********
+07/27/2022 08:29:17 AM - root - INFO: ********** Add Customer Test Passed **********
+07/27/2022 08:29:17 AM - root - INFO: ********** Ending Add Customer Test **********
+07/27/2022 08:29:18 AM - root - INFO: ********** Verifying Login Test **********
+07/27/2022 08:29:31 AM - root - INFO: ********** Login Test case Passed **********
